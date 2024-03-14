@@ -1,0 +1,17 @@
+id: pigeontech
+name: "&l&x&e&7&1&2&1&2鸽&l&x&7&d&2&1&b&6子&l&x&d&5&9&d&7&d科&l&x&c&7&d&b&c&5技"
+depends: []
+pluginDepends: [Slimefun,FoxyMachines,InfinityExpansion,LiteXpansion,TranscEndence,DynaTech]
+version: "1.0"
+description: "鸽子科技"
+authors: ["BoXueDuoCai","mmmjjkx"]
+repo: "BoXueDuoCai/PigeonTech"
+
+
+#   - Slimefun
+#   - FoxyMachines # 神秘科技
+#   - InfinityExpansion
+#   - LiteXpansion # 工业
+#   - TranscEndence # 末地科技
+#   - GuizhanLibPlugin
+#   - DynaTech # 动力科技
